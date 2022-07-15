@@ -1,0 +1,44 @@
+body {
+    font-family: 'Montserrat';
+}
+
+.navbar {
+    background-color: #171717;
+}
+
+.nav-item {
+    margin-right: 20px;
+
+}
+
+
+.nav-item.active a {
+    color: #F9B234;
+}
+
+.carousel {
+    height: 450px;
+    background-color: #171717;
+    color: white;
+}
+
+.carousel h1 {
+    font-family: 'Lora';
+}
+
+.carousel p {
+    font-weight: 200;
+}
+
+.features h3,
+.designer h3 {
+    font-family: 'Lora';
+    color: #1B2690;
+    font-weight: bold;
+}
+
+.features p,
+.designer p {
+    font-weight: 200;
+    color: #b7b7b7;
+}
